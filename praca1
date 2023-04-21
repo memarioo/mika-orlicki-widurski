@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gucci Mnichu</title>
+</head>
+<body>
+  <header>
+    <h1>Gucci Mnichu</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Shop</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section>
+      <h2>About Gucci Mnichu</h2>
+      <p>Gucci Mnichu is a fashion brand that combines traditional monastic garments with modern design. Our mission is to create stylish and comfortable clothing that is both timeless and unique.</p>
+      <p>All of our garments are handmade by skilled artisans using the highest quality materials. We take pride in our attention to detail and our commitment to ethical and sustainable practices.</p>
+    </section>
+    
+    <section>
+      <h2>Shop</h2>
+      <p>Visit our shop to browse our selection of Gucci Mnichu clothing. We offer free shipping on all orders over $100 and a 30-day money-back guarantee.</p>
+      <a href="#">Shop Now</a>
+    </section>
+  </main>
+  
+  <footer>
+    <nav>
+      <ul>
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">Terms and Conditions</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+  </footer>
+</body>
+</html>
